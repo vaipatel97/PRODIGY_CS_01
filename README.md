@@ -45,27 +45,39 @@ Decrypted text: Hello World
 1. Encrypt:
 
 Enter your plain text message in the "Enter your message" field.
+
 Enter your shift value in input box.
+
 Click on "Encrypt". 
+
 A random key will be generated, and your encrypted message will be displayed instantly.
 
 2. Decrypt:
 
 Enter the encrypted message in the "Enter your message" field.
+
 Enter your shift value in input box.
+
 Click on "Decrypt" to reveal the original message.
 
 ## 📌 How It Works
+
 The Caesar cipher works by shifting each letter of the message by a certain number of places in the alphabet. For example, with a shift of 3:
 
 'A' becomes 'D'
+
 'B' becomes 'E'
+
 'C' becomes 'F'
+
 For decryption, the process is reversed using the correct key.
 
 ## 🛡 Security Considerations
+
 - The Caesar cipher is not secure for modern encryption needs.
+
 - It can be easily broken using frequency analysis or brute force attacks.
+
 - Suitable for learning cryptography basics but not for protecting sensitive data.
 
 ## 🤝 Contributing
