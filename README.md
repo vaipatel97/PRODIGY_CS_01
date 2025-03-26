@@ -32,8 +32,10 @@ You can also download the pdf file to read the instructions, that has been uploa
    ```sh
    git clone https://github.com/vaipatel97/PRODIGY_CS_01.git
    ```
-2. Ensure you have Python installed (version 3.x recommended).
+(Ensure you have Python installed (version 3.x recommended).)
 
+2. Gave the path to the file in terminal.
+ 
 3. Run the script using Python:
 ```python     
 python app.py
