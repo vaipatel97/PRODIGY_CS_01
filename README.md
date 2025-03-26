@@ -32,8 +32,6 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
  
 Video file name: task1
 
-
-
 # 🔧 Installation
 ### Requirements
 - Python 3.x or higher
@@ -46,12 +44,10 @@ Video file name: task1
    ```
 2. Ensure you have Python installed (version 3.x recommended).\
 
-3.   Run the script using Python:
+3. Run the script using Python:
 ```python     
 python app.py
-```
-Example 
-
+``` 
 
 ##  🛠 Usage
 1. Encrypt:
@@ -95,7 +91,7 @@ For questions or suggestions, reach out at vaipatel97@gmail.com
 ---
 ⭐ Don't forget to give me a star if you like this project!
 
-## Tags
+## 🏷️Tags
 - Python
 - Flask
 - Caesar Cipher
