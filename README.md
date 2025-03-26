@@ -15,7 +15,7 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 
 ### 📖Manual/instruction for running code:
 
-You can also download the pdf file to read the instructions, that has been uploaded.
+You can also download the pdf file to read the instructions, that has been uploaded with video.
 
 # 🔧 Installation
 ### Requirements
