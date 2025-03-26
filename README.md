@@ -13,24 +13,9 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 - Supports uppercase and lowercase letters
 - Real-time encryption and decryption show results instantly.
 
-### Manual/instruction for running code:-->
-1. Download the file.
-2. Extract the file.
-3. Open or run the command prompt or terminal as per your system.
-4. Gave the path where you save the file in the command prompt or terminal.
-   
-   Example: cd users\desktop\.....
-   
-5. Then run the Python file in the command prompt or terminal.
-   
-   Example: python app.py
-   
-6. Then go to the folder where files have been extracted.
-7. Click on the index.html file.
-8. Your output will be visible in the browser, perform the tool.
-9. You can also see the video to run the output.
- 
-Video file name: task1
+### 📖Manual/instruction for running code:
+
+You can also download the pdf file to read the instructions, that has been uploaded.
 
 # 🔧 Installation
 ### Requirements
@@ -42,7 +27,7 @@ Video file name: task1
    ```sh
    git clone https://github.com/vaipatel97/PRODIGY_CS_01.git
    ```
-2. Ensure you have Python installed (version 3.x recommended).\
+2. Ensure you have Python installed (version 3.x recommended).
 
 3. Run the script using Python:
 ```python     
