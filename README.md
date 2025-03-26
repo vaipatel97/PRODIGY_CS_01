@@ -21,44 +21,18 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
    ```
 2. Ensure you have Python installed (version 3.x recommended).
 
-## 🛠 Usage
-Run the script using Python:
-```sh
-python caesar_cipher.py
-```
 
-### Example
-#### Encryption:
-```python
-Enter text: Hello World
-Enter shift value: 3
-Encrypted text: Khoor Zruog
-```
-
-#### Decryption:
-```python
-Enter text: Khoor Zruog
-Enter shift value: 3
-Decrypted text: Hello World
-```
-## Usage
+##  🛠 Usage
 1. Encrypt:
-
-Enter your plain text message in the "Enter your message" field.
-
-Enter your shift value in input box.
-
-Click on "Encrypt". 
-
-A random key will be generated, and your encrypted message will be displayed instantly.
+- Enter your plain text message in the "Enter your message" field.
+- Enter your shift value in input box.
+- Click on "Encrypt". 
+- A random key will be generated, and your encrypted message will be displayed instantly.
 
 2. Decrypt:
-
-Enter the encrypted message in the "Enter your message" field.
-
-Enter your shift value in input box.
-
-Click on "Decrypt" to reveal the original message.
+- Enter the encrypted message in the "Enter your message" field.
+- Enter your shift value in input box.
+- Click on "Decrypt" to reveal the original message.
 
 ## 📌 How It Works
 
