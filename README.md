@@ -13,25 +13,56 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 - Supports uppercase and lowercase letters
 - Real-time encryption and decryption show results instantly.
 
-## 🔧 Installation
+### Manual/instruction for running code:-->
+1. Download the file.
+2. Extract the file.
+3. Open or run the command prompt or terminal as per your system.
+4. Gave the path where you save the file in the command prompt or terminal.
+   
+   Example: cd users\desktop\.....
+   
+5. Then run the Python file in the command prompt or terminal.
+   
+   Example: python app.py
+   
+6. Then go to the folder where files have been extracted.
+7. Click on the index.html file.
+8. Your output will be visible in the browser, perform the tool.
+9. You can also see the video to run the output.
+ 
+Video file name: task1
+
+
+
+# 🔧 Installation
+### Requirements
+- Python 3.x or higher
+- Flask
+
+### Steps to run: 
 1. Clone the repository:
    ```sh
    git clone https://github.com/vaipatel97/PRODIGY_CS_01.git
-   cd caesar-cipher-tool
    ```
-2. Ensure you have Python installed (version 3.x recommended).
+2. Ensure you have Python installed (version 3.x recommended).\
+
+3.   Run the script using Python:
+```python     
+python app.py
+```
+Example 
 
 
 ##  🛠 Usage
 1. Encrypt:
 - Enter your plain text message in the "Enter your message" field.
-- Enter your shift value in input box.
+- Enter your shift value in the input box.
 - Click on "Encrypt". 
 - A random key will be generated, and your encrypted message will be displayed instantly.
 
 2. Decrypt:
 - Enter the encrypted message in the "Enter your message" field.
-- Enter your shift value in input box.
+- Enter your shift value in the input box.
 - Click on "Decrypt" to reveal the original message.
 
 ## 📌 How It Works
@@ -62,5 +93,17 @@ Feel free to fork this repository and submit pull requests to improve the tool!
 For questions or suggestions, reach out at vaipatel97@gmail.com
 
 ---
-⭐ Don't forget to give a star if you like this project!
+⭐ Don't forget to give me a star if you like this project!
+
+## Tags
+- Python
+- Flask
+- Caesar Cipher
+- Cryptography
+- Web App
+- Encryption
+- Decryption
+
+
+
 
