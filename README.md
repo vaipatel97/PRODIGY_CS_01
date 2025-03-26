@@ -1,3 +1,5 @@
+# PRODIGY_CS_01
+
 # Caesar Cipher Tool
 
 A simple Python-based tool to encrypt and decrypt text using the Caesar cipher algorithm.
@@ -9,12 +11,12 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 - Encrypt text using a shift value
 - Decrypt text with a known shift value
 - Supports uppercase and lowercase letters
-- Ignores non-alphabetic characters
+- Real-time encryption and decryption show results instantly.
 
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/caesar-cipher-tool.git
+   git clone https://github.com/vaipatel97/PRODIGY_CS_01.git
    cd caesar-cipher-tool
    ```
 2. Ensure you have Python installed (version 3.x recommended).
@@ -39,11 +41,27 @@ Enter text: Khoor Zruog
 Enter shift value: 3
 Decrypted text: Hello World
 ```
+## Usage
+1. Encrypt:
+
+Enter your plain text message in the "Enter your message" field.
+Enter your shift value in input box.
+Click on "Encrypt". 
+A random key will be generated, and your encrypted message will be displayed instantly.
+
+2. Decrypt:
+
+Enter the encrypted message in the "Enter your message" field.
+Enter your shift value in input box.
+Click on "Decrypt" to reveal the original message.
 
 ## 📌 How It Works
-1. Each letter is shifted forward (for encryption) or backward (for decryption) by the specified shift value.
-2. Non-alphabetic characters remain unchanged.
-3. The alphabet wraps around (e.g., 'Z' shifted forward by 1 becomes 'A').
+The Caesar cipher works by shifting each letter of the message by a certain number of places in the alphabet. For example, with a shift of 3:
+
+'A' becomes 'D'
+'B' becomes 'E'
+'C' becomes 'F'
+For decryption, the process is reversed using the correct key.
 
 ## 🛡 Security Considerations
 - The Caesar cipher is not secure for modern encryption needs.
@@ -53,11 +71,9 @@ Decrypted text: Hello World
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests to improve the tool!
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 📬 Contact
-For questions or suggestions, reach out at [your-email@example.com].
+For questions or suggestions, reach out at vaipatel97@gmail.com
 
 ---
 ⭐ Don't forget to give a star if you like this project!
